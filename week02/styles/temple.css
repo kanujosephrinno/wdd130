@@ -58,3 +58,21 @@ a {
 ul {
     line-height: 1.8;
 }
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+section p {
+    line-height: 1.6;
+}
+
+footer p {
+    margin: 0;
+}

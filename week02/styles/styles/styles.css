@@ -1,0 +1,51 @@
+nav {
+    background-color: #4a4f6d;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    padding: 10px;
+    display: block;
+}
+
+main {
+    max-width: 840px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #2f477a;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 20px gray;
+}
+
+aside {
+    width: 300px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    padding: 15px;
+    background-color: #ececec;
+    color: #333;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 30px;
+    border-top: 1px solid gray;
+    text-align: center;
+}

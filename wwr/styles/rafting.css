@@ -43,6 +43,8 @@ article {
 header nav {
     margin: 16px;
     padding: 8px;
+    display: flex;
+    justify-content: space-around;
 }
 
 header {
@@ -56,10 +58,6 @@ header img{
     height: auto;
 }
 
-   header nav {
-    display: flex;
-    justify-content: space-around;
-}
 
 nav a {
     text-decoration: none;
@@ -107,7 +105,7 @@ nav a {
     padding: 16px;
     text-align: center;
     opacity: 0.7;
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     color: white;
 }
 

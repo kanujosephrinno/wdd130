@@ -65,6 +65,10 @@ nav a {
     font-weight: bold;
 }
 
+nav a:hover {
+    color: var(--secondary-color);
+}
+
 .socialmedia  {
      display: flex;
      flex-direction: row;
